@@ -1,4 +1,4 @@
-# Realtime-Chat-App
+# Realtime Chat Application
 
 A real-time chat application built with **Spring Boot**, **WebSocket**, **STOMP**, **SockJS**, and **Thymeleaf**.
 
